@@ -19,7 +19,7 @@
  </div>
 
 <div align="center" style="display: inline_block"><br>
-  <p>Main skills</p>
+  <p><b>Main skills</b></p>
   <img align="center" alt="Elayne-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />      
   <img align="center" alt="Elayne-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elayne-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,7 +27,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <p>Studying in this moment</p>     
+  <p><b>Studying in this moment</b></p>     
   <img align="center" alt="Elayne-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Elayne-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Elayne-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
